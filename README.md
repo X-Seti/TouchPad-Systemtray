@@ -20,8 +20,8 @@ You'll be asked for your password. After entering it, your touchpad should immed
 ## Installation
 
 ```bash
-chmod +x install-final.sh
-./install-final.sh
+chmod +x install.sh
+./install.sh
 ```
 
 The installer will:
@@ -39,7 +39,7 @@ The installer will:
 
 - **Left-click** the tray icon = instant toggle
 - **Right-click** = menu with status
-- Icon changes color when disabled
+- Icon changes colour when disabled
 - Shows notifications on toggle
 
 ## How It Works
